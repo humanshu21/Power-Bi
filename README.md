@@ -87,7 +87,7 @@ Following DAX expression was written for the same,
         
 A card visual was used to represent count of customers.
 
-![Snap_Count]([https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg](https://github.com/humanshu21/Power-Bi/blob/574ea6b0ac6e24d5aba376855edb6ecdc53f92e9/Screenshot%202026-06-07%20135054.png))
+![Snap_Count](https://github.com/humanshu21/Power-Bi/blob/574ea6b0ac6e24d5aba376855edb6ecdc53f92e9/Screenshot%202026-06-07%20135054.png)
 
         
  - Step 16 : New measure was created to find  % of customers,
@@ -100,7 +100,7 @@ A card visual was used to represent count of customers.
  
  Snap of % of customers who preferred business class
  
- ![Snap_Percentage]([https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/bi1.png))
+ ![Snap_Percentage](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/bi1.png)
 
  
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
@@ -112,7 +112,7 @@ A card visual was used to represent count of customers.
  A card visual was used to represent this total distance.
  
  
- ![Snap_3]([https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/Screenshot%202026-06-07%20140108.png))
+ ![Snap_3](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/Screenshot%202026-06-07%20140108.png)
  
  - Step 18 : The report was then published to Power BI Service.
  
