@@ -100,7 +100,7 @@ A card visual was used to represent count of customers.
  
  Snap of % of customers who preferred business class
  
- ![Snap_Percentage](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/bi1.png)
+ ![Snap_Percentage](https://github.com/humanshu21/Power-Bi/blob/061d86310f4e2f2d5012c7f7ec8d6063e3493233/bi1%20(1).png)
 
  
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
