@@ -87,7 +87,7 @@ Following DAX expression was written for the same,
         
 A card visual was used to represent count of customers.
 
-![Snap_Count](https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg)
+![Snap_Count]([https://user-images.githubusercontent.com/102996550/174090154-424dc1a4-3ff7-41f8-9617-17a2fb205825.jpg](https://github.com/humanshu21/Power-Bi/blob/574ea6b0ac6e24d5aba376855edb6ecdc53f92e9/Screenshot%202026-06-07%20135054.png))
 
         
  - Step 16 : New measure was created to find  % of customers,
@@ -100,7 +100,7 @@ A card visual was used to represent count of customers.
  
  Snap of % of customers who preferred business class
  
- ![Snap_Percentage](https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg)
+ ![Snap_Percentage]([https://user-images.githubusercontent.com/102996550/174090653-da02feb4-4775-4a95-affb-a211ca985d07.jpg](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/bi1.png))
 
  
  - Step 17 : New measure was created to calculate total distance travelled by flights & a card visual was used to represent total distance.
@@ -112,22 +112,17 @@ A card visual was used to represent count of customers.
  A card visual was used to represent this total distance.
  
  
- ![Snap_3](https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg)
+ ![Snap_3]([https://user-images.githubusercontent.com/102996550/174091618-bf770d6c-34c6-44d4-9f5e-49583a6d5f68.jpg](https://github.com/humanshu21/Power-Bi/blob/2d257f532b6ffafeb6ed5b65fa084aafa1b6fb67/Screenshot%202026-06-07%20140108.png))
  
  - Step 18 : The report was then published to Power BI Service.
  
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
-
-# Snapshot of Dashboard (Power BI Service)
-
-![dashboard_snapo](https://user-images.githubusercontent.com/102996550/174096257-11f1aae5-203d-44fc-bfca-25d37faf3237.jpg)
-
  
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/humanshu21/Power-Bi/blob/366e664ad829d7f95c13c31970b03d57fdb4c923/bi.png)
 
 # Insights
 
